@@ -1,6 +1,6 @@
-import Patient from '../models/patient.model.js';
-import Doctor from '../models/doctor.model.js';
-import Appointment from '../models/appointment.model.js';
+import Patient from '../models/Patient.model.js';
+import Doctor from '../models/Doctor.model.js';
+import Appointment from '../models/Appointment.model.js';
 
 export const getDashboardStats = async (req, res, next) => {
   try {

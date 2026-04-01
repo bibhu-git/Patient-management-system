@@ -1,4 +1,4 @@
-import Appointment from '../models/appointment.model.js';
+import Appointment from '../models/Appointment.model.js';
 
 const validateAppointment = (data) => {
   const errors = [];

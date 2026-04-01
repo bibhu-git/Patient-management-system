@@ -1,4 +1,4 @@
-import Doctor from '../models/doctor.model.js';
+import Doctor from '../models/Doctor.model.js';
 
 
 const validateDoctor = (data) => {
